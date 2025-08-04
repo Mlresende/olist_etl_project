@@ -33,7 +33,7 @@ Exportação dos dados tratados para `.csv` e conexão com o Power BI.
 ## ✅ Critérios de Aceite
 
 - [x] Dados extraídos com sucesso do Kaggle
-- [ ] Transformações aplicadas conforme regras de negócio
+- [x] Transformações aplicadas conforme regras de negócio
 - [ ] Dados limpos salvos em `/data/processed/`
 - [ ] Dashboards criados no Power BI com:
   - Faturamento mensal
